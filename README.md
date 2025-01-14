@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Graduated from UPM with a software engineering with honours degree<br>- Interested in web design and development mainly, but open to anything<br>- I'm currently learning Python and machine learning<br>- Fun fact, I'm also very passionate about psychology
+- Student in UPM with a software engineering with honours degree<br>- Interested in web design and development mainly, but open to anything<br>- I'm currently learning Python and machine learning<br>- Fun fact, I'm also very passionate about psychology
 
 
 ## 🌐 Socials:
